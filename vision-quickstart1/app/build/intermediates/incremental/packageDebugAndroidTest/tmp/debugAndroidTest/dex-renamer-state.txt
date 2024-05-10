@@ -1,0 +1,7 @@
+#Wed Apr 24 16:21:20 CST 2024
+base.0=C\:\\Users\\wangkan\\Desktop\\vision-quickstart1\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\wangkan\\Desktop\\vision-quickstart1\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
